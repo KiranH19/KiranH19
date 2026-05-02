@@ -1,5 +1,7 @@
 # 💫 About Me:
-Web Developer focused on building clean, responsive, and user-friendly websites using HTML, CSS, and JavaScript. Passionate about turning ideas into functional web experiences and continuously improving through real-world projects. Currently strengthening problem-solving skills and working towards becoming a skilled software engineer.<br>
+3rd-year Electronics and Communication Engineering student with a strong interest in software development and problem solving. While ECE gave me a solid foundation in how hardware works, I developed a growing interest in coding and building software solutions.
+
+I’m currently focused on improving my Data Structures & Algorithms skills, building web projects. I’m actively looking for software development internship opportunities to gain practical experience and grow as a developer.<br>
 
 
 ## 🌐 Socials:
